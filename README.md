@@ -1,2 +1,2 @@
 # rabbit_mq
-app que usa o broker rabbit_mq em python que envia e recebe mensagens AMPQ de quatro maneiras diferentes.
+demonstração de como rabbit_mq em python pode enviar e receber mensagens AMPQ de quatro maneiras diferentes.
